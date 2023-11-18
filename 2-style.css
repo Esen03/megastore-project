@@ -1,0 +1,95 @@
+#bgcolor{
+    background-color: black;
+
+}
+
+.back{
+    width: 640px;
+    height: 328px;
+    flex-shrink: 0;
+    
+    border-radius: 4px;
+    background: #FFF;
+    margin-top: 130px;    
+}
+.header{
+ display: flex;
+ justify-content: center;
+}
+
+.text h1{
+    display: flex;
+width: 248px;
+height: 24px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #000;
+text-align: center;
+font-family: Sora;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+margin-left: 196px;
+padding-top: 30px;
+}
+
+.text p{
+    display: flex;
+width: 256px;
+height: 32px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #A9A9A9;
+text-align: center;
+font-family: Sora;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+margin-left: 196px;
+margin-top: 8px;
+}
+
+.btn input{
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    
+    border-radius: 12px;
+    border: 0.5px solid #DADADA;
+    background: #FFF;
+    text-align: center;
+
+    color: #141414;
+text-align: center;
+font-family: Sofia Pro;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.btn{
+    margin-left: 212px;
+}
+
+
+.btn-12 button{
+    width: 384px;
+    height: 48px;
+    flex-shrink: 0;
+
+    border-radius: 4px;
+background: #232529;
+
+color: white;
+margin-left: 140px;
+margin-top: 48px;
+}
